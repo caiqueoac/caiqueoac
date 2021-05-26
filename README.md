@@ -2,10 +2,13 @@
 
 
 🔭 I’m currently working on UFMA.
+
 🌱 I’m currently learning JavaScript e .NET
 
 How to reach me 📫:
+
 📨 Send me an e-mail: caiqueoac@gmail.com
+
 💼 Connecting and sharing professional updates on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caiqueoac/) 
 
 
