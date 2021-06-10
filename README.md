@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on UFMA.
 
-🌱 I’m currently learning JavaScript e .NET
+🌱 I’m currently learning JavaScript and .NET
 
 How to reach me 📫:
 
