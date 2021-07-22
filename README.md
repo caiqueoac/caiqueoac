@@ -1,7 +1,7 @@
 ### Hi, I'm Caique Coelho 👋
 
 
-🔭 I’m currently working on UFMA.
+🔭 I’m currently working on Trybe.
 
 🌱 I’m currently learning JavaScript and .NET
 
