@@ -3,7 +3,9 @@
 
 🔭 I’m currently working on Trybe.
 
-🌱 I’m currently learning JavaScript and .NET
+😄 I'm a software Engineer
+
+🌱 I’m looking to collaborate on React Projects
 
 How to reach me 📫:
 
